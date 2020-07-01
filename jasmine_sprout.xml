@@ -5,9 +5,9 @@
   <project path="device/xiaomi/sdm660-common" name="SailfishOS-MI-A2/android_device_xiaomi_sdm660-common" revision="hybris-16.0" />
   <project path="vendor/xiaomi/wayne" name="SailfishOS-MI-A2/android_vendor_xiaomi_wayne" revision="master" />
   <project path="vendor/xiaomi/sdm660-common" name="SailfishOS-MI-A2/android_vendor_xiaomi_sdm660-common" revision="master" />
-  <project path="rpm/" name="SailfishOS-MI-A2/droid-hal-jasmine_sprout" revision="hybris-16.0" />
-  <project path="hybris/droid-configs" name="SailfishOS-MI-A2/droid-config-jasmine_sprout" revision="hybris-16.0" />
-  <project path="hybris/droid-hal-version-jasmine_sprout" name="SailfishOS-MI-A2/droid-hal-version-jasmine_sprout" revision="hybris-16.0" />
+  <project path="rpm/" name="SailfishOS-MI-A2/droid-hal-jasmine_sprout" revision="master" />
+  <project path="hybris/droid-configs" name="SailfishOS-MI-A2/droid-config-jasmine_sprout" revision="master" />
+  <project path="hybris/droid-hal-version-jasmine_sprout" name="SailfishOS-MI-A2/droid-hal-version-jasmine_sprout" revision="master" />
   <project path="external/libhybris" name="mer-hybris/libhybris" revision="master" />
   <project path="external/one-true-awk" name="LineageOS/android_external_one-true-awk" revision="lineage-16.0" />
   <project path="external/fsck_msdos" name="LineageOS/android_external_fsck_msdos" revision="lineage-16.0" />
