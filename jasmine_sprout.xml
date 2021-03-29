@@ -7,7 +7,7 @@
     <project path="vendor/xiaomi/wayne-common" name="SailfishOS-MI-A2/android_vendor_xiaomi_wayne-common" revision="hybris-17.1" />
     <project path="vendor/xiaomi/jasmine_sprout" name="SailfishOS-MI-A2/android_vendor_xiaomi_jasmine_sprout" revision="hybris-17.1" />
     <project path="vendor/xiaomi/sdm660-common" name="SailfishOS-MI-A2/android_vendor_xiaomi_sdm660-common" revision="hybris-17.1" />
-    <project path="rpm/" name="SailfishOS-MI-A2/droid-hal-jasmine_sprout" revision="master" />
+    <project path="rpm/" name="SailfishOS-MI-A2/droid-hal-jasmine_sprout" revision="hybris-17.1" />
     <project path="hybris/droid-configs" name="SailfishOS-MI-A2/droid-config-jasmine_sprout" revision="master" />
     <project path="hybris/droid-hal-version-jasmine_sprout" name="SailfishOS-MI-A2/droid-hal-version-jasmine_sprout" revision="master" />
     <project path="external/libhybris" name="mer-hybris/libhybris" revision="master" />
